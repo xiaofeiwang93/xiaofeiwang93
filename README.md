@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I enjoy watching graphic design videos
 
 ### Spotify Playing 🎧
-[![Spotify](https://xiaofeiwang93.vercel.app/api/spotify)](https://open.spotify.com/user/xiaofeiwang93)
+[![Spotify](https://novatorem-alpha-cyan.vercel.app/api/spotify)](https://open.spotify.com/user/12179896133)
 
 ### Connect with me:
 
