@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a React + .NET project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy watching graphic design videos
 
 ### Spotify Playing 🎧
